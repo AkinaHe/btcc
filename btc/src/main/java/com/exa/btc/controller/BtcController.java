@@ -9,7 +9,7 @@ public class BtcController {
     @RequestMapping("/aa")
     @ResponseBody
     public String he(){
-        return  "受到罚款罚了";
+        return  "111111";
     }
 
 }
