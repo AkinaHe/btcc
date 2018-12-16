@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
 public class BtcController {
-    @RequestMapping("/bb")
+    @RequestMapping("/aa")
     @ResponseBody
     public String he(){
         return  "btc";
