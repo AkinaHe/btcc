@@ -9,7 +9,7 @@ public class BtcController {
     @RequestMapping("/aa")
     @ResponseBody
     public String he(){
-        return  "3333";
+        return  "master";
     }
 
 }
