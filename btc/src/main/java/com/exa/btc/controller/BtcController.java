@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class BtcController {
     @RequestMapping("/aa")
     @ResponseBody
-    public String he(){
-        return  "devp555";
+    public String he() {
+        return "devp555";
     }
 
 }
